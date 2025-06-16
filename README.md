@@ -4,6 +4,8 @@ This extension provides a keymap for the APL programming language, allowing user
 
 ## Features
 
+![APL Keymap](./apl-keymap.gif)
+
 **APL Glyphs**
 Insert APL symbols using a simple key combination press the two keys and then Tab. For example, to insert the APL symbol "quad" ( ⎕ ), press `[` and then `]` followed by Tab.
 
